@@ -1,2 +1,4 @@
 # SinglepageApp
 Myinfo
+ 
+       git status
